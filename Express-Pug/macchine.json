@@ -1,0 +1,47 @@
+{
+    "automobili": [
+      {
+        "id": 1,
+        "categoria": "Auto Sportive",
+        "modello": "Porsche 911",
+        "velocita_massima": 330,
+        "accelerazione": 3.4,
+        "posti_porte": "4 posti e 2 porte",
+        "descrizione": "La Porsche 911 è un'icona nel mondo delle auto sportive, famosa per la sua performance eccezionale, il design iconico e la guida coinvolgente. È sinonimo di potenza, agilità e tecnologia avanzata, offrendo un'esperienza di guida entusiasmante sia su strada che in pista. Ogni nuova versione della 911 porta miglioramenti tecnici e prestazionali mantenendo sempre il fascino distintivo della serie.",
+        "prezzo": 200000,
+        "immagine": "[https://images.wallpaperscraft.com/image/single/porsche_911_turbo_103236_800x600.jpg](https://images.wallpaperscraft.com/image/single/porsche_911_turbo_103236_800x600.jpg)"
+      },
+      {
+        "id": 2,
+        "categoria": "Auto Sportive",
+        "modello": "Chevrolet Corvette Z06",
+        "velocita_massima": 300,
+        "accelerazione": 3.5,
+        "posti_porte": "2 posti e 2 porte",
+        "descrizione": "La Chevrolet Corvette Z06 è un'icona americana delle auto sportive, nota per il suo design aggressivo, le prestazioni sbalorditive e il rapporto qualità-prezzo competitivo. Offre un motore potente posizionato anteriormente, una guida coinvolgente e un mix di comfort e tecnologia, rendendola una valida concorrente nel mondo delle auto sportive di fascia alta.",
+        "prezzo": 80000,
+        "immagine": "[https://cdn.auto.it/img/960/540/2021/10/04/160805753-7065077b-5cd3-4ea9-97cc-63beb905784b.jpg](https://cdn.auto.it/img/960/540/2021/10/04/160805753-7065077b-5cd3-4ea9-97cc-63beb905784b.jpg)"
+      },
+      {
+        "id": 3,
+        "categoria": "Auto Sportive",
+        "modello": "BMW M4 COUPÉ",
+        "velocita_massima": 250,
+        "accelerazione": 3.6,
+        "posti_porte": "4 posti e 2 porte",
+        "descrizione": "La BMW M4 COUPÉ è una sportiva ad alte prestazioni che offre un mix di lusso, agilità e potenza. Dotata di un motore potente e di una tecnologia all'avanguardia, offre un'esperienza di guida emozionante e dinamica. Con interni di alta qualità e una gamma di opzioni personalizzabili, la M4 COUPÉ rappresenta il connubio perfetto tra prestazioni sportive e comfort di guida quotidiana.",
+        "prezzo": 108000,
+        "immagine": "[https://cdn.drivek.com/configurator-imgs/cars/it/800/BMW/M4-COUPE/39878_COUPE-2-PORTE/bmw-m4-coupe-2020-front-view.jpg](https://cdn.drivek.com/configurator-imgs/cars/it/800/BMW/M4-COUPE/39878_COUPE-2-PORTE/bmw-m4-coupe-2020-front-view.jpg)"
+      },
+      {
+        "id": 4,
+        "categoria": "Auto SUV",
+        "modello": "Mercedes-AMG Brabus",
+        "velocita_massima": 330,
+        "accelerazione": 3.7,
+        "posti_porte": "5 posti e 5 porte",
+        "descrizione": ""
+
+      }
+    ]
+}
