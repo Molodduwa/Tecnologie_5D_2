@@ -1,0 +1,32 @@
+{
+    "Auto SUV":[
+        {
+           "nome":"Mercedes-AMG Brabus",
+           "velocitaMassima":"330 km/h",
+           "accelerazione":"3,7 secondi (0-100)",
+           "postiEporte":"5 posti e 5 porte",
+           "descrizione":"La Mercedes-AMG, modificata da Brabus, rappresenta un SUV di lusso altamente performante. Le modifiche di Brabus includono aggiornamenti al motore, al design, all'interno e ai componenti meccanici, trasformandolo in un SUV estremamente potente e lussuoso, mantenendo al contempo il comfort e la praticità di un SUV di classe superiore.",
+           "prezzo":330,
+           "immagine":"https://cdn.tuttosport.com/images/2021/08/04/145857576-dd17a8b9-04e0-438c-b77e-6dcd1deb76eb.jpg"
+        },
+        {
+           "nome":"BMW X5",
+           "velocitaMassima":"250 km/h",
+           "accelerazione":"6,9 secondi (0-100)",
+           "postiEporte":"5 posti e 5 porte",
+           "descrizione":"Il BMW X5 è un SUV di lusso noto per il suo mix di prestazioni, comfort e tecnologia. Offre un ampio spazio interno, materiali di alta qualità e una guida piacevole. È disponibile con varie opzioni di motorizzazione, che vanno da motori più efficienti a quelli più performanti, offrendo un'esperienza su strada versatile e raffinata.",
+           "prezzo":120,
+           "immagine":"https://cdn.drivek.com/configurator-imgs/cars/it/800/BMW/X5/41508_SUV-5-PORTE/bmw-x5-front-view.jpg"
+        },
+        {
+           "nome":"AUDI Q7",
+           "velocitaMassima":"250 km/h",
+           "accelerazione":"7,2 secondi (0-100)",
+           "postiEporte":"5 posti e 5 porte",
+           "descrizione":"L'Audi Q7 è un SUV spazioso, raffinato e tecnologicamente avanzato. Con un design elegante e interni lussuosi, offre comfort e praticità. Dotato di tecnologie all'avanguardia e opzioni di motorizzazione efficienti, l'Audi Q7 è ideale per viaggi su lunghe distanze e offre un'esperienza di guida sicura e confortevole.",
+           "prezzo":90,
+           "immagine":"https://cdn.drivek.com/configurator-imgs/cars/it/800/AUDI/Q7/38739_SUV-5-PORTE/audi-q7-suv-2019-front-side-1.jpg"
+        }
+     ]
+
+}
