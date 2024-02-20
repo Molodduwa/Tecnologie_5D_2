@@ -7,7 +7,18 @@ app.set('view engine', 'pug');
 app.use(express.static(__dirname + '/public'));
 app.get('/', (req, res) => {
 
-    res.render('Home', {
+    res.render('home', {
+    title: 'Homepage',
+    compatte: Acomp['Auto Compatte'], //Passa il vettore 
+    suvs: ASuv['Auto SUV'],
+    sportive: ASpor['Auto Sportive']
+
+    });
+});
+
+app.get('/', (req, res) => {
+
+    res.render('home', {
     title: 'Homepage',
     compatte: Acomp['Auto Compatte'], //Passa il vettore 
     suvs: ASuv['Auto SUV'],
