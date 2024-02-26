@@ -3,17 +3,22 @@ html(lang="en")
   head
     meta(charset='UTF-8')
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
-    title= title
-    link(rel='stylesheet', href='/stylesheets/style.css')
+    link(rel='stylesheet', href='/css/style.css')
+    title Ciao Mondo
   body
-    h1 Benvenuto alla pagina principale
+    header.header
+      h1 Benvenuto alla pagina principale
     h2 Seleziona la categoria di auto che desideri visualizzare:
-    ul
-      li
-        a(href='/compatte') Auto Compatte
-      li
-        a(href='/suv') Auto SUV
-      li
-        a(href='/sportive') Auto Sportive
-
+    article.container
+      div.person
+          div.person-image(style=`background: url('${compatte[0].immagine}') top center no-repeat; background-size: cover;`)
+          a(href='/compatte') | Auto Compatte 
     
+      div.person
+          div.person-image(style=`background: url('${suvs[0].immagine}') top center no-repeat; background-size: cover;`)
+          a(href='/suv') | Auto SUV
+
+      div.person
+          div.person-image(style=`background: url('${sportive[0].immagine}') top center no-repeat; background-size: cover;`)
+          a(href='/sportive') | Auto Sportive
+

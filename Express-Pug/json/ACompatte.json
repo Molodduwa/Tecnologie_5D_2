@@ -1,6 +1,7 @@
 {
     "Auto Compatte":[
         {
+           "id":7,
            "nome":"Ford Fiesta",
            "velocitaMassima":"180 km/h",
            "accelerazione":"9,2 secondi (0-100)",
@@ -10,6 +11,7 @@
            "immagine":"https://cdn.drivek.com/configurator-imgs/cars/it/800/FORD/FIESTA/40761_BERLINA-5-PORTE/ford-fiesta-5-doors-2021.jpg"
         },
         {
+           "id":8,
            "nome":"Volkswagen Polo",
            "velocitaMassima":"190 km/h",
            "accelerazione":"10,5 secondi (0-100)",
@@ -19,6 +21,7 @@
            "immagine":"https://cdn.drivek.com/configurator-imgs/cars/it/800/VOLKSWAGEN/POLO/40384_HATCHBACK-5-DOORS/volkswagen-polo-2021-front-side-1.jpg"
         },
         {
+           "id":9,
            "nome":"Renault Clio",
            "velocitaMassima":"190 km/h",
            "accelerazione":"11,1 secondi (0-100)",

@@ -4,7 +4,7 @@ const ASuv = require('./json/ASuv.json');
 const ASpor= require('./json/ASportive.json');
 const app = express();
 app.set('view engine', 'pug');
-app.use(express.static(__dirname + '/public'));
+app.use(express.static(__dirname + '/Public'));
 app.get('/', (req, res) => {
 
     res.render('home', {
@@ -16,14 +16,26 @@ app.get('/', (req, res) => {
     });
 });
 
-app.get('/', (req, res) => {
+app.get('/suv', (req, res) => {
+    res.render('macchine', {
+    title: 'LE NOSTRE AUTO SUV',
+    mac: ASuv['Auto SUV']
+    });
+});
 
-    res.render('home', {
-    title: 'Homepage',
-    compatte: Acomp['Auto Compatte'], //Passa il vettore 
-    suvs: ASuv['Auto SUV'],
-    sportive: ASpor['Auto Sportive']
+app.get('/compatte', (req, res) => {
 
+    res.render('macchine', {
+    title: 'LE NOSTRE AUTO COMPATTE',
+    mac: Acomp['Auto Compatte']
+    });
+});
+app.get('/sportive', (req, res) => {
+
+    res.render('macchine', {
+    title: 'LE NOSTRE AUTO SPORTIVE',
+    mac: ASpor['Auto Sportive']
+    
     });
 });
 
