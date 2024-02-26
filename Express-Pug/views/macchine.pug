@@ -15,5 +15,11 @@ html(lang="en")
 
           h2.person-name 
             | #{macchina.nome}
-          a(href=`/profile?id=`) 
+          a(href=`/profile?id=${macchina.id}&page=${variabile}`)
             | View Profile
+ 
+  div.container
+    a(href="") 
+    a.button.button-buy(href='/') Torna Alla home
+  
+   

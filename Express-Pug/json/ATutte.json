@@ -59,7 +59,37 @@
             "descrizione":"La BMW M4 COUPÉ è una sportiva ad alte prestazioni che offre un mix di lusso, agilità e potenza. Dotata di un motore potente e di una tecnologia all'avanguardia, offre un'esperienza di guida emozionante e dinamica. Con interni di alta qualità e una gamma di opzioni personalizzabili, la M4 COUPÉ rappresenta il connubio perfetto tra prestazioni sportive e comfort di guida quotidiana.",
             "prezzo":108,
             "immagine":"https://cdn.drivek.com/configurator-imgs/cars/it/800/BMW/M4-COUPE/39878_COUPE-2-PORTE/bmw-m4-coupe-2020-front-view.jpg"
-         }
+         },
+         {
+          "id":7,
+          "nome":"Ford Fiesta",
+          "velocitaMassima":"180 km/h",
+          "accelerazione":"9,2 secondi (0-100)",
+          "postiEporte":"5 posti e 5 porte",
+          "descrizione":"La Ford Fiesta è una vettura compatta popolare nota per la sua maneggevolezza e il design sportivo. È disponibile in diverse varianti, offrendo un'ampia gamma di motorizzazioni che vanno dalle più economiche alle versioni più performanti. È apprezzata per le sue caratteristiche di sicurezza e il comfort degli interni, offrendo spazio sufficiente per i passeggeri e un bagagliaio capiente.",
+          "prezzo":20,
+          "immagine":"https://cdn.drivek.com/configurator-imgs/cars/it/800/FORD/FIESTA/40761_BERLINA-5-PORTE/ford-fiesta-5-doors-2021.jpg"
+       },
+       {
+          "id":8,
+          "nome":"Volkswagen Polo",
+          "velocitaMassima":"190 km/h",
+          "accelerazione":"10,5 secondi (0-100)",
+          "postiEporte":"5 posti e 5 porte",
+          "descrizione":"La Volkswagen Polo è conosciuta per la sua affidabilità, la qualità dei materiali e la guida confortevole. È una vettura compatta ben costruita, con interni moderni e tecnologici. Offre un'ampia scelta di motorizzazioni efficienti e una buona manovrabilità, rendendola ideale per un utilizzo quotidiano in città e su strade extraurbane.",
+          "prezzo":25,
+          "immagine":"https://cdn.drivek.com/configurator-imgs/cars/it/800/VOLKSWAGEN/POLO/40384_HATCHBACK-5-DOORS/volkswagen-polo-2021-front-side-1.jpg"
+       },
+       {
+          "id":9,
+          "nome":"Renault Clio",
+          "velocitaMassima":"190 km/h",
+          "accelerazione":"11,1 secondi (0-100)",
+          "postiEporte":"5 posti e 5 porte",
+          "descrizione":"La Renault Clio è apprezzata per il suo design accattivante, l'eccellente consumo di carburante e le caratteristiche di sicurezza avanzate. È una vettura compatta versatile, adatta sia per gli spostamenti urbani che per viaggi più lunghi. Con una vasta gamma di opzioni e un interno confortevole, la Clio si distingue per l'equilibrio tra prestazioni, economia e stile.",
+          "prezzo": 18,
+          "immagine":"https://cdn.drivek.com/configurator-imgs/cars/it/800/RENAULT/CLIO/42864_HATCHBACK-5-DOORS/renault-clio-front-view.jpg"
+       }
      ]
 
 }
